@@ -33,7 +33,7 @@ Luego necesitamos abrir la terminal en nuestra IDE (VS Code). Para hacer eso vam
 **Podemos ver que tenemos una terminal que ya está apuntando al directorio que queremos**
 
 ### -Paso :three:
-En el alcance de la materia, GitHub nos puede pedir autenticarnos dos escenarios:
+En el alcance de la materia, GitHub nos puede pedir autenticarnos en dos escenarios:
 
  1. Clonar un repositorio privado.
  2. Aplicar cambios a un repositorio.
