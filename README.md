@@ -113,3 +113,11 @@ git clone https://github.com/torvalds/linux.git
 
 ### -Paso :five:
 Todo lo que esté dentro del repositorio quedará dentro de una nueva carpeta que lleva el nombre del repositorio. Es decir, si yo estoy parado en el **Escritorio** y ejecuto el *git clone*. Todos los archivos quedarán en la carpeta **linux** que está en el **Escritorio**
+
+Al clonar un repositorio Git se crea un nuevo directorio con todo su contenido. Luego de clonar se debe usar el comando `cd` para cambiar el directorio de trabajo. Una vez posicionado en el directorio de trabajo podemos abrir VS Code desde la terminal de comandos.
+```bash:
+cd linux
+code .
+```
+En el curso usaremos la [terminal de comandos](/terminal.md) para manipular archivos y para ejecutar aplicaciones.
+
