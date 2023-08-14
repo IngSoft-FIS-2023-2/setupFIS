@@ -1,4 +1,4 @@
-#Terminal de comandos
+# Terminal de comandos
 
 Para el manejo de repositorios Git y realizar actividaes de desarrolllo de software es necesario usar la terminal de comandos del sistema.
 Utilizamos los comandos para posicionarnos en el árbol de directorios, crear y abrir archivos, compilar y ejecutar las aplicaciones.
