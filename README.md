@@ -1,10 +1,23 @@
-# Guía setup del curso FIS :computer:
+# Guía para setup del curso FIS :computer:
 
-Durante en el curso vamos a utilizar distintas herramientas para el desarrollo de software. Se requiere una cuenta en GitHub (podés crearla [acá](https://github.com/signup))y disponibilidad de una laptop para realizar ejercicios en clase. Ingresar nombre y apellido en la información de perfil GitHub para identificarse durante el curso.
+Durante en el curso vamos a utilizar distintas herramientas para el desarrollo de software. Se requiere una cuenta en GitHub (podés crearla [acá](https://github.com/signup)) y disponibilidad de una laptop para realizar ejercicios en clase. 
+
+Recodá usar tu nombre y apellido en la información de perfil GitHub para identificarse durante el curso.
+
 Les recomendamos asociar el email de la Universidad y solicitar los beneficios de una cuenta [educativa](https://education.github.com/students).  
 
+## Instalacón de herramientas
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+Instalar la última versión estable de cada herramienta (se denomina LTS en el caso de Node.js). Se puede utlizar Linux, Mac o Windows. Comprobar la instalación a través de la [terminal de comandos](/terminal.md) ejecutando ```git```, ```code``` o ```node```.
+
 ## Ambiente VS Code 
-Guía para realizar el setup inicial de los ejercicios de Fundamentos de Ingeniería de Software.
+
+Para realizar los ejercicios del curso utilizaremos repositorios Git. Se debe configurar el ambiente VS Code para autenticarse en GitHub.
+
 **Partiendo de que se tiene una cuenta de GitHub vamos a ver los siguientes temas:**
 
  - Autenticación  
@@ -124,5 +137,4 @@ Al clonar un repositorio Git se crea un nuevo directorio con todo su contenido. 
 cd linux
 code .
 ```
-En el curso usaremos la [terminal de comandos](/terminal.md) para manipular archivos y para ejecutar aplicaciones.
-
+En el curso usaremos la [terminal de comandos](/terminal.md) para manipular archivos y ejecutar aplicaciones.
