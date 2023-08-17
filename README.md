@@ -1,6 +1,11 @@
-# Guía setup del ambiente VS Code :computer:
+# Guía setup del curso FIS :computer:
+
+Durante en el curso vamos a utilizar distintas herramientas para el desarrollo de software. Se requiere una cuenta en GitHub (podés crearla [acá](https://github.com/signup))y disponibilidad de una laptop para realizar ejercicios en clase. Ingresar nombre y apellido en la información de perfil GitHub para identificarse durante el curso.
+Les recomendamos asociar el email de la Universidad y solicitar los beneficios de una cuenta [educativa](https://education.github.com/students).  
+
+## Ambiente VS Code 
 Guía para realizar el setup inicial de los ejercicios de Fundamentos de Ingeniería de Software.
-**Partiendo de que se tiene una cuenta de GitHub (sino podés crearla [acá](https://github.com/signup)) vamos a ver los siguientes temas:**
+**Partiendo de que se tiene una cuenta de GitHub vamos a ver los siguientes temas:**
 
  - Autenticación  
  - Cómo clonar un repositorio.
