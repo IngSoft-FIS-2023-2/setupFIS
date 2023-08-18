@@ -1,9 +1,0 @@
-## Instalación de herramientas
-
-Para realizar el curso FIS se requiere una cuenta en GitHub y disponibilidad de una laptop con software instalado.
-Si no tiene cuenta en GitHub, debe crear una. Opcionalmente puede asociar el email de la Universidad y solicitar los beneficios de una cuenta educativa. Se debe utilizar nombre y apellido en la información de perfil para identificarse durante el curso. 
-Software que se debe instalar:
-•	Git
-•	Node.JS (LTS, última versión estable)
-•	Visual Studio Code
-Durante el curso se instalarán herramientas adicionales, extensiones de VS Code y Chrome (WAVE Evaluation Tool), paquetes npm: Bootstrap, ESLint, Jest.
